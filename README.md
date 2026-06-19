@@ -26,7 +26,6 @@
 
 Senior Software Engineer and Technical Lead with **9+ years** building and shipping production systems across full-stack development, AI/ML engineering, DevOps & platform engineering, and data engineering on all three major clouds (AWS, GCP, Azure).
 
-- 🔭 **Currently**: Senior Application Developer at Centene Corporation
 - 💼 **Open to**: Senior/Lead Software Engineer • AI/ML Engineer • Cloud Architect • Tech Lead
 - 🌍 **Location**: USA (Remote)
 - 💡 **Polyglot Developer**: Java (Spring Boot/Quarkus), Python (FastAPI/Django), Go (Gin/gRPC), C# (.NET Core), TypeScript/JavaScript (React/Angular)
