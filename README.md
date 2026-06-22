@@ -161,7 +161,7 @@ I'm not looking for a job — I'm looking for a problem worth solving.
 **I'm actively exploring remote opportunities in the US market.**
 
 <a href="mailto:niravp1216@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email_Me-niravp1216%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/📧_Email_Me-niravp1216%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> .
 </a>
 
 ---
