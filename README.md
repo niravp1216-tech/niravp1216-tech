@@ -22,7 +22,7 @@
 
 ```text
 I'm a polyglot engineer who picks the right tool for the job — 
-not the one that fits a resume. I've spent 9+ years shipping 
+not the one that fits a resume. I've spent 10+ years shipping 
 production systems across healthcare, fintech, and enterprise tech.
 
 I speak Java, Python, Go, C#, and TypeScript fluently. 
